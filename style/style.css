@@ -2,5 +2,11 @@
     background: yellow;
     margin: 20px;
     padding: 10px;
-    
+
+}
+
+img{
+    width: 200px;
+    height: 300px;
+    margin-left: 20px;
 }
